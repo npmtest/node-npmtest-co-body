@@ -1,4 +1,7 @@
-# test coverage for  [co-body (v5.1.1)](https://github.com/cojs/co-body#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-co-body.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-co-body) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-co-body.svg)](https://travis-ci.org/npmtest/node-npmtest-co-body)
+# npmtest-co-body
+
+#### basic test-coverage for  [co-body (v5.1.1)](https://github.com/cojs/co-body#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-co-body.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-co-body) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-co-body.svg)](https://travis-ci.org/npmtest/node-npmtest-co-body)
+
 #### request body parsing for co
 
 [![NPM](https://nodei.co/npm/co-body.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/co-body)
@@ -92,7 +95,8 @@
         "test": "make test",
         "test-cov": "make test-cov"
     },
-    "version": "5.1.1"
+    "version": "5.1.1",
+    "bin": {}
 }
 ```
 
